@@ -16,7 +16,7 @@ struct WelcomeView: View {
             VStack {
                 Text("Welcome to WeatherApp")
                     .bold().font(.title)
-                Text("Please allow location access to see the weather forecast.")
+                Text("Please allow location access to see the weather forecast..")
                     .padding()
             }
             .multilineTextAlignment(.center)
