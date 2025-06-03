@@ -8,7 +8,8 @@ WeatherApp, kullanıcının **konum bilgilerini kullanarak** bulunduğu bölgeni
 - 🏢 **Şehir bazlı hava durumu sorgulama**  
 - 👩‍🍳 **Gerçek zamanlı hava durumu verileri**  
 - 🌐 **API entegrasyonu ile dünyadaki her şehri destekler**  
-- 💪 **Modern ve minimalist SwiftUI arayüzü**  
+- 💪 **Modern ve minimalist SwiftUI arayüzü**
+- - <img width="485" alt="ToDo3" src="https://github.com/user-attachments/assets/dddff65b-a351-4297-b200-b818974d2ca9" />
 
 ## 🛠 Kullanılan Teknolojiler
 
